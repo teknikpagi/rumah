@@ -2,4 +2,4 @@
 
 untuk memenuhi tugas mata kuliah Artificial Intelligence
 
-demo website 
+<a href="http://bit.ly/HouseProjectdesain"> Demo Website </a>
